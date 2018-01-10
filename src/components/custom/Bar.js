@@ -131,6 +131,7 @@ const BarCustom = () => (
             "left": 60
         }}
         padding={0.3}
+        colors="d320c"
         colorBy="id"
         defs={[
             {

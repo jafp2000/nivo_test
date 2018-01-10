@@ -298,6 +298,7 @@ const LineCustom = () => (
                 dotBorderColor="#ffffff"
                 enableDotLabel={true}
                 dotLabel="y"
+                colors="d320c"
                 dotLabelYOffset={-12}
                 animate={true}
                 motionStiffness={90}

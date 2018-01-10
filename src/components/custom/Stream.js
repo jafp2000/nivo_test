@@ -114,6 +114,7 @@ const StreamCustom = () => (
               "bottom": 50,
               "left": 60
           }}
+          colors="d320c"
           axisBottom={{
               "orient": "bottom",
               "tickSize": 5,

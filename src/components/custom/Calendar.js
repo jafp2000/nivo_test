@@ -125,12 +125,7 @@ const CalendarCustom = () => (
             from="2015-01-01"
             to="2015-07-12"
             emptyColor="#eeeeee"
-            colors={[
-                "#61cdbb",
-                "#97e3d5",
-                "#e8c1a0",
-                "#f47560"
-            ]}
+            colors="d320c"
             margin={{
                 "top": 100,
                 "right": 30,

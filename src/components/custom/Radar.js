@@ -66,7 +66,7 @@ const RadarCustom = () => (
             enableDotLabel={true}
             dotLabel="value"
             dotLabelYOffset={-12}
-            colors="nivo"
+            colors="d320c"
             colorBy="key"
             fillOpacity={0.1}
             animate={true}

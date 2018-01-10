@@ -43,7 +43,7 @@ const BubbleCustom = () => (
             identity="country"
             value="value"
             leavesOnly={true}
-            colors="nivo"
+            colors="d320c"
             labelTextColor="inherit:darker(0.8)"
             labelSkipRadius={12}
             colorBy="country"
